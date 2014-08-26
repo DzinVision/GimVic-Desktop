@@ -1,7 +1,7 @@
 GimVic-Desktop
 ==============
 
-GimVic app for desktop computers.
+GimVic app for desktop computers written in Java.
 
 Copyright and licence
 =====================
